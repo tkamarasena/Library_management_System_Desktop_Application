@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_mgt_System(IMBS)", "Library_mgt_System(IMBS)\Library_mgt_System(IMBS).csproj", "{AF2BCF60-4F51-41FE-9A9C-666E60FD9A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2BCF60-4F51-41FE-9A9C-666E60FD9A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2BCF60-4F51-41FE-9A9C-666E60FD9A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2BCF60-4F51-41FE-9A9C-666E60FD9A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2BCF60-4F51-41FE-9A9C-666E60FD9A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CB554E-F560-4C0D-9E15-C7B13541B26D}
+	EndGlobalSection
+EndGlobal
